@@ -10,4 +10,4 @@ Interview Prep, the C# solutions for LeetCode problems.
 
 | # | Title | Solution | Time | Space | Comment |
 | - | ----- | -------- | ---- | ----- | --------------- |
-| 392 | Is Subsequence  | --- | O(n) | O(1) | Used Two Pointer approach.  |
+| 392 | Is Subsequence  | [c#](LeetCode/0351-0400/0392-IsSubsequence.cs) | O(n) | O(1) | Used Two Pointer approach.  |
