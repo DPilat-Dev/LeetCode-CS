@@ -1,3 +1,5 @@
+using LeetCode.P0351_0400.S0392_Is_Subsequence;
+
 namespace LeetCode.Tests.Problems
 {
     public class _0392_IsSubsequence_UnitTest
@@ -6,11 +8,12 @@ namespace LeetCode.Tests.Problems
         public void IsSubsequence_True()
         {
             // arrange
+            Solution_0392 solution = new Solution_0392();
             string s = "abc";
             string t = "ahbgdc";
 
             // act
-            var result = _0392_IsSubsequence.IsSubsequence(s, t);
+            var result = solution.IsSubsequence(s, t);
 
             // assert
             Assert.True(result);
@@ -20,11 +23,12 @@ namespace LeetCode.Tests.Problems
         public void IsSubsequence_False()
         {
             // arrange
+            Solution_0392 solution = new Solution_0392();
             string s = "axc";
             string t = "ahbgdc";
 
             // act
-            var result = _0392_IsSubsequence.IsSubsequence(s, t);
+            var result = solution.IsSubsequence(s, t);
 
             // assert
             Assert.False(result);

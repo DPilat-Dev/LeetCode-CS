@@ -16,11 +16,11 @@
     Output: false
 */
 
-namespace LeetCode
+namespace LeetCode.P0351_0400.S0392_Is_Subsequence
 {
-    public class _0392_IsSubsequence
+    public class Solution_0392
     {
-        public static bool IsSubsequence(string s, string t)
+        public bool IsSubsequence(string s, string t)
         {
             int i = 0;
             int j = 0;
