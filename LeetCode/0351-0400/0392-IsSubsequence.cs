@@ -20,7 +20,7 @@ namespace LeetCode
 {
     public class _0392_IsSubsequence
     {
-        public bool IsSubsequence(string s, string t)
+        public static bool IsSubsequence(string s, string t)
         {
             int i = 0;
             int j = 0;
