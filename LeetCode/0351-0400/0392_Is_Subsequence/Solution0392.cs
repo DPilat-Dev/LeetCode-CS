@@ -18,7 +18,7 @@
 
 namespace LeetCode.P0351_0400.S0392_Is_Subsequence
 {
-    public class Solution_0392
+    public class Solution0392
     {
         public bool IsSubsequence(string s, string t)
         {

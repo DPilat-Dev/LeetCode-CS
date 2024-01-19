@@ -8,7 +8,7 @@ namespace LeetCode.Tests.Problems
         public void IsSubsequence_True()
         {
             // arrange
-            Solution_0392 solution = new Solution_0392();
+            Solution0392 solution = new Solution0392();
             string s = "abc";
             string t = "ahbgdc";
 
@@ -23,7 +23,7 @@ namespace LeetCode.Tests.Problems
         public void IsSubsequence_False()
         {
             // arrange
-            Solution_0392 solution = new Solution_0392();
+            Solution0392 solution = new Solution0392();
             string s = "axc";
             string t = "ahbgdc";
 
