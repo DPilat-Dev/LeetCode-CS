@@ -1,3 +1,5 @@
+[![Solved Problems](https://img.shields.io/badge/Solved%20Problems-1-blue.svg?style=flat-square)](https://github.com/DPilat-Dev/LeetCode-CS)
+
 # LeetCode
 
 Interview Prep, the C# solutions for LeetCode problems.
