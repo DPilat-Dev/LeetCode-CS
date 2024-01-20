@@ -1,5 +1,5 @@
 [![Dotnet CI](https://github.com/DPilat-Dev/LeetCode-CS/actions/workflows/dotnet.yml/badge.svg)](https://github.com/DPilat-Dev/LeetCode-CS/actions/workflows/dotnet.yml)
-[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=DPilat-Dev_LeetCode-CS&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=DPilat-Dev_LeetCode-CS)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=DPilat-Dev_LeetCode-CS&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=DPilat-Dev_LeetCode-CS)
 [![Solved Problems](https://img.shields.io/badge/Solved%20Problems-3-blue.svg?style=flat-square)](https://github.com/DPilat-Dev/LeetCode-CS)
 
 # LeetCode
