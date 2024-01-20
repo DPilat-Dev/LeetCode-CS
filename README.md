@@ -10,7 +10,14 @@ Interview Prep, the C# solutions for LeetCode problems.
 
 ### Table of Contents
 
+- [0301-0350](#problems-301-350)
 - [0351-0400](#problems-351-400)
+
+### Problems 301-350
+
+| #   | Title          | Solution                                                     | Time | Space | Comment                    |
+| --- | -------------- | ------------------------------------------------------------ | ---- | ----- | -------------------------- |
+| 344 | Reverse String | [c#](LeetCode/0301-0350/0344_Reverse_String/Solution0344.cs) | O(n) | O(1)  | Used Two Pointer approach. |
 
 ### Problems 351-400
 
